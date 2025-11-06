@@ -51,4 +51,4 @@ The dashboard was built using the following tools and technologies.
    The project involves data cleaning and transformation in Power Query, KPI creation using DAX measures, and the design of an interactive, business-ready dashboard. By converting raw HR data into actionable insights, the dashboard helps HR teams identify high-turnover areas, evaluate diversity, analyze compensation structures, and understand the overall health of the organization.
 
    Screenshot
-   https://github.com/negiaman7/HR-Data-Analytics-Dashboard/blob/main/HR%20DataAnalytics.png
+   ![Dashboard Preview](https://github.com/negiaman7/HR-Data-Analytics-Dashboard/blob/main/HR%20DataAnalytics.png)
